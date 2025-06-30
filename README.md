@@ -8,7 +8,7 @@ An interactive AI-powered Data Visualization Assistant built with Streamlit. It 
 
 As the need for intuitive data exploration tools grows, this project empowers users to interact with datasets through plain English, enabling faster and smarter decision-making without writing complex code.
 
-![AI Data Visualization Agent](img/AI%20DVA.jpg)
+
 
 Harness the power of **Together AI**’s advanced LLMs and **E2B**’s secure execution environment to build a smart agent that can:
 
@@ -16,7 +16,7 @@ Harness the power of **Together AI**’s advanced LLMs and **E2B**’s secure ex
 * Generate relevant visualizations
 * Deliver insights instantly
 
-![AI Data Visualization Agent](img/AI%20DVA1.jpg)
+
 
 ---
 
@@ -61,7 +61,7 @@ This app can utilize various models based on your selected configuration:
 * Switch between LLMs for cost/speed/accuracy needs
 * Supports deep insights or quick analytics
 
-![AI Data Visualization Agent](img/AI%20DVA2.jpg)
+
 
 ---
 
