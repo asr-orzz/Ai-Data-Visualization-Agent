@@ -1,6 +1,4 @@
-Here’s a cleaned-up, professional version of your `README.md` with all mentions of the previous owner removed and rewritten in a neutral, project-focused tone:
 
----
 
 # 📊 AI Data Visualization Agent
 
